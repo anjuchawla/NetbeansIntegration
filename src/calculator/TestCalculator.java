@@ -26,7 +26,7 @@ public class TestCalculator {
         System.out.println("Difference: "+ cal1.subtractNumbers());
         System.out.println("Product:" + cal1.multiplyNumbers());
         System.out.println("Quotient:" + cal1.divideNumbers());
-        
+        System.out.println("-----------------------------");
     }//of main
     
     
